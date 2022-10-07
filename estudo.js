@@ -31,3 +31,4 @@ function quadrado(){
         document.write("O quadrado de " + i + " é " + (i*i)+ "<br>")
     }
 }
+
