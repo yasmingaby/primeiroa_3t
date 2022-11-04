@@ -13,9 +13,31 @@ text-align: center;
     padding: 8px;
 }
 #sptotal {
-    background: blueviolet;
+    background: coral;
     color: white;
     border-radius: 10px;
     padding: 10px;
     margin-bottom: 10px;
+}
+.calculadora button {
+    margin-top: 10px;
+    background: rgb(211, 6, 75);
+    color: salmon;
+    padding: 5px 20px;
+    border: none;
+}
+.calculadora button:hover{
+    background: skyblue;
+    color: steelblue;
+    cursor: help;
+}
+.spListaMeses {
+    text-align: start;
+    border-style: dotted;
+    border-color: rgb(201, 9, 73);
+    border-width: 1px;
+    color: black;
+    background: white;
+    font-size: 10px;
+    margin-top: 10px;
 }
