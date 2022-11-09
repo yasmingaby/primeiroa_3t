@@ -12,6 +12,11 @@ text-align: center;
     border-radius: 8px;
     padding: 8px;
 }
+
+.calculadora input:focus{
+    background: rgb(139, 206, 211);
+}
+
 #sptotal {
     background: coral;
     color: white;
@@ -40,4 +45,12 @@ text-align: center;
     background: white;
     font-size: 10px;
     margin-top: 10px;
+}
+#spListameses {
+    background: rgb(13, 209, 13);
+    color: blue;
+    text-align: start;
+    margin-top: 10px;
+    border-radius: 10px;
+border-color: brown;
 }
